@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="dfe21636-2bfd-4241-9c22-f043c2ddb22d" name="phpscweb">
+        <fileTransfer rootFolder="/home/iasante" accessType="SFTP" host="php.scweb.ca" port="22" sshConfigId="b29f298e-e02d-4bf4-827a-93167b5a286f" sshConfig="iasante@php.scweb.ca:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
